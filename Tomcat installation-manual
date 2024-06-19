@@ -33,7 +33,7 @@ java -version
 
  
 cd /usr/local/
-wget http://ftp.unicamp.br/pub/apache/tomcat/tomcat-9/v9.0.0.M22/bin/apache-tomcat-9.0.0.M22.tar.gz
+wget http://ftp.unicamp.br/pub/apache/tomcat/tomcat-9/v9.0.87/bin/apache-tomcat-9.0.87.tar.gz
 tar -xvf apache-tomcat-9.0.0.M22.tar.gz
 mv apache-tomcat-9.0.0.M22 tomcat
 rm -f apache-tomcat-9.0.0.M22.tar.gz
